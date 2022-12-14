@@ -1,0 +1,13 @@
+{
+  "name": "The Washington Pub",
+  "description": "The Washington Pub is a public domain newspaper serving the people of Washington D.C.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/breck7/washington.pub.git"
+  },
+  "author": "Breck Yunits et al",
+  "homepage": "https://washington.pub",
+  "dependencies": {
+    "scroll-cli": "^47.1.2"
+  }
+}
