@@ -1,0 +1,5 @@
+import settings.scroll
+title The Washington Pub
+ hidden
+permalink feed.xml
+printFeed index
