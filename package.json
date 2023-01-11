@@ -8,6 +8,11 @@
   "author": "Breck Yunits et al",
   "homepage": "https://washington.pub",
   "dependencies": {
-    "scroll-cli": "^47.1.2"
+    "scroll-cli": "^52.0.0"
+  },
+  "scripts": {
+    "test": "scroll test",
+    "build": "scroll build",
+    "open": "open index.html"
   }
 }

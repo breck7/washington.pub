@@ -1,7 +1,6 @@
 importOnly
 description The Washington Pub is a public domain newspaper serving the people of Washington D.C.
-github https://github.com/breck7/washington.pub
+git https://github.com/breck7/washington.pub
 viewSourceBaseUrl https://github.com/breck7/washington.pub/blob/main
-twitter https://twitter.com/breckyunits
 email tips@washington.pub
 baseUrl https://washington.pub

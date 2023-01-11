@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0">
+<channel>
+ <title>The Washington Pub</title>
+ <link>https://washington.pub</link>
+ <description>The Washington Pub is a public domain newspaper serving the people of Washington D.C.</description>
+ <lastBuildDate>Wed, 11 Jan 2023 13:00:10 +0000</lastBuildDate>
+ <language>en-us</language>
+ <item>
+  <title>Aloha Washington</title>
+  <link>https://washington.pubfirstPost.html</link>
+  <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
+ </item>
+</channel>
+</rss>
